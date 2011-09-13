@@ -1,0 +1,13 @@
+{
+	"id": "com.awesomeapps.virtualkeyboard",
+	"version": "0.0.8",
+	"vendor": "Awesome Apps",
+	"type": "web",
+	"main": "index.html",
+	"title": "Virtual Keyboard",
+	"noWindow": "true",
+	"splashBackground": "images/splash-image.png",
+	"smallicon": "images/small-icon.png",
+	"splashicon": "images/splash-icon.png",
+	"icon": "icon.png"
+}

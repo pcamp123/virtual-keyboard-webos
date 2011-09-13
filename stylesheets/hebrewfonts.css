@@ -1,0 +1,275 @@
+.key-button {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/middle-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+	background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+
+.key-button-right {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	background-repeat:no-repeat;
+	 background-image: url('../images/right-normal.png');
+    background-color: #000000;
+	background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-right-crarr {
+	font-size: 18px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	background-repeat:no-repeat;
+	 background-image: url('../images/cr-normal.png');
+    background-color: #000000;
+	background-size:31.5px 42px;
+	font-weight: bold;
+	font-variant: normal;
+	
+}
+.key-button-right-back {
+	font-size: 24px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 40px;
+	background-repeat:no-repeat;
+	 background-image: url('../images/right-normal.png');
+    background-color: #000000;
+	background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-left {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/left-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-left-shift {
+	font-size: 22px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/left-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-top-left {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: 0px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/top-left-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-top {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: 0px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/top-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+	background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-top-right {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: 0px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/top-right-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-bottom-left {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/bottom-left-normal.png');
+	 background-repeat:no-repeat;
+    background-color: #000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-bottom-right {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/bottom-right-normal.png');
+	 background-repeat:no-repeat;
+    background-color:#000000;
+background-size:31.5px 42px;
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.key-button-bottom {
+	font-size: 16.5px;
+	color: white;
+	text-align: center; 
+	width: 31.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/bottom-normal.png');
+	 background-repeat:no-repeat;
+background-size:31.5px 42px;
+    background-color: #000000;
+	
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
+.container {
+	margin-left: 2px;
+	margin-top: 1px;
+}
+
+.key-button.selected {
+		 background-image: url('../images/middle-pressed.png');
+}
+.key-button-right.selected {
+		 background-image: url('../images/right-pressed.png');
+}
+.key-button-left.selected {
+		 background-image: url('../images/left-pressed.png');
+}
+.key-button-top.selected {
+		 background-image: url('../images/top-pressed.png');
+}
+.key-button-top-left.selected {
+		 background-image: url('../images/top-left-pressed.png');
+}
+.key-button-top-right.selected {
+		 background-image: url('../images/top-right-pressed.png');
+
+}
+.key-button-bottom.selected {
+		 background-image: url('../images/bottom-pressed.png');
+}
+.key-button-bottom-left.selected {
+		 background-image: url('../images/bottom-left-pressed.png');
+}
+.key-button-bottom-right.selected {
+		 background-image: url('../images/bottom-right-pressed.png');
+}
+.key-button-space.selected {
+		 background-image: url('../images/key-space-pressed.png');
+}
+.key-button-right-crarr.selected {
+		 background-image: url('../images/cr-pressed.png');
+}
+.key-button-space {
+	font-size: 14px;
+	color: white;
+	text-align: center; 
+	width: 124.5px;
+	height: 42px;
+	margin: -8px -4px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	line-height: 42px;
+	 background-image: url('../images/key-space.png');
+	 background-repeat:no-repeat;
+	 background-size:124.5px 42px;
+    background-color: #000000;
+	
+	font-weight: bold;
+	
+	font-variant: normal;
+	
+}
